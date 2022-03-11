@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Number: " + a);
 
         System.out.println("Commit B");
+
+        System.out.println("Commit C");
     }
 }
