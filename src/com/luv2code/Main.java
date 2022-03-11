@@ -6,5 +6,7 @@ public class Main {
 	    int a = 1;
 
         System.out.println("Number: " + a);
+
+        System.out.println("Commit B");
     }
 }
